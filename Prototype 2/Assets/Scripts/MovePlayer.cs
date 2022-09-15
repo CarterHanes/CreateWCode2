@@ -6,7 +6,7 @@ public class MovePlayer : MonoBehaviour
 {
     public float horizontalInput;
     public float speed = 10;
-    public float xRange = 10;
+    public float xRange = 20;
     
 
     public GameObject projectilePrefab;
